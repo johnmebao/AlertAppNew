@@ -1,0 +1,5 @@
+table configuraciones{
+    id
+    nombre varchar(100) not null
+    logo varchar
+}
